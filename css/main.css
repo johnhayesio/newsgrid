@@ -182,6 +182,10 @@ h6 {
   font-size: 3rem;
 }
 
+.endbreak {
+  margin-bottom: 220px;
+}
+
 .list li {
   padding: 0.5rem 0;
   border-bottom: 1px dotted #555;
